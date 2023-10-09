@@ -1,0 +1,306 @@
+{
+    "lines": {
+        "wife": {
+            "name": "Wife",
+            "hideIfUnused": false
+        },
+        "husband": {
+            "name": "Husband",
+            "hideIfUnused": false
+        },
+        "explanation": {
+            "name": "Explanation",
+            "hideIfUnused": true
+        }
+    },
+    "subtitles": [
+        {
+            "from": 5.5,
+            "to": 6.5,
+            "lines": {
+                "wife": "Herrmann?"
+            }
+        },
+        {
+            "from": 6.5,
+            "to": 7.5,
+            "lines": {
+                "husband": "Yes?"
+            }
+        },
+        {
+            "from": 7.5,
+            "to": 9,
+            "lines": {
+                "wife": "What are you doing?"
+            }
+        },
+        {
+            "from": 9,
+            "to": 10,
+            "lines": {
+                "husband": "Nothing."
+            }
+        },
+        {
+            "from": 10,
+            "to": 12.5,
+            "lines": {
+                "wife": "Nothing? Why nothing?"
+            }
+        },
+        {
+            "from": 13,
+            "to": 14.5,
+            "lines": {
+                "husband": "I am doing nothing."
+            }
+        },
+        {
+            "from": 16,
+            "to": 18,
+            "lines": {
+                "wife": "Nothing at all?"
+            }
+        },
+        {
+            "from": 18.5,
+            "to": 19.5,
+            "lines": {
+                "husband": "No."
+            }
+        },
+        {
+            "from": 21,
+            "to": 23,
+            "lines": {
+                "wife": "Absolutely nothing?"
+            }
+        },
+        {
+            "from": 23,
+            "to": 26,
+            "lines": {
+                "husband": "No, I am sitting here."
+            }
+        },
+        {
+            "from": 27.5,
+            "to": 28.5,
+            "lines": {
+                "wife": "Your are sitting there?"
+            }
+        },
+        {
+            "from": 28.5,
+            "to": 29.5,
+            "lines": {
+                "husband": "Yes."
+            }
+        },
+        {
+            "from": 30,
+            "to": 32.5,
+            "lines": {
+                "wife": "You must be doing something..."
+            }
+        },
+        {
+            "from": 33,
+            "to": 34,
+            "lines": {
+                "husband": "No."
+            }
+        },
+        {
+            "from": 37,
+            "to": 39,
+            "lines": {
+                "wife": "Do you think about anything?"
+            }
+        },
+        {
+            "from": 39,
+            "to": 41,
+            "lines": {
+                "husband": "Nothing special."
+            }
+        },
+        {
+            "from": 43,
+            "to": 47.5,
+            "lines": {
+                "wife": "It would not hurt if you would take a walk."
+            }
+        },
+        {
+            "from": 47.5,
+            "to": 48.5,
+            "lines": {
+                "husband": "No, no."
+            }
+        },
+        {
+            "from": 49,
+            "to": 50.5,
+            "lines": {
+                "wife": "I will bring your mantle!"
+            }
+        },
+        {
+            "from": 51,
+            "to": 52,
+            "lines": {
+                "husband": "No, thank you."
+            }
+        },
+        {
+            "from": 52,
+            "to": 54.5,
+            "lines": {
+                "wife": "But it is too cold without a mantle."
+            }
+        },
+        {
+            "from": 55,
+            "to": 57,
+            "lines": {
+                "husband": "But I am not taking a walk."
+            }
+        },
+        {
+            "from": 57,
+            "to": 59,
+            "lines": {
+                "wife": "But just a moment ago you wanted to."
+            }
+        },
+        {
+            "from": 59,
+            "to": 63,
+            "lines": {
+                "husband": "No, you wanted me to take a walk."
+            }
+        },
+        {
+            "from": 63,
+            "to": 64,
+            "lines": {
+                "wife": "I?"
+            }
+        },
+        {
+            "from": 64,
+            "to": 67,
+            "lines": {
+                "wife": "I don't care if you take a walk or not."
+            }
+        },
+        {
+            "from": 67,
+            "to": 68.5,
+            "lines": {
+                "husband": "Good."
+            }
+        },
+        {
+            "from": 70,
+            "to": 75,
+            "lines": {
+                "wife": "I just think it could not hurt you, if you would take a walk."
+            }
+        },
+        {
+            "from": 75.5,
+            "to": 78,
+            "lines": {
+                "husband": "No it could not hurt."
+            }
+        },
+        {
+            "from": 78,
+            "to": 79.5,
+            "lines": {
+                "wife": "So, what do you want? [annoyed]"
+            }
+        },
+        {
+            "from": 80,
+            "to": 81.5,
+            "lines": {
+                "husband": "I want to sit here."
+            }
+        },
+        {
+            "from": 83,
+            "to": 86,
+            "lines": {
+                "wife": "You can drive one crazy!"
+            }
+        },
+        {
+            "from": 86,
+            "to": 88,
+            "lines": {
+                "husband": "Really?",
+                "explanation": "'Ach' is hard to translate, because it does not have a specific meaning."
+            }
+        },
+        {
+            "from": 88,
+            "to": 94,
+            "lines": {
+                "wife": "First you want to take a walk, then again not; then I am supposed to bring your mantle, then again not..."
+            }
+        },
+        {
+            "from": 94,
+            "to": 95.5,
+            "lines": {
+                "wife": "What do you want now? [annoyed]"
+            }
+        },
+        {
+            "from": 95.5,
+            "to": 97.5,
+            "lines": {
+                "husband": "I want to sit here."
+            }
+        },
+        {
+            "from": 98,
+            "to": 99,
+            "lines": {
+                "wife": "Now you suddently want to sit here..."
+            }
+        },
+        {
+            "from": 99,
+            "to": 104,
+            "lines": {
+                "husband": "Nothing 'suddently'! I always just wanted to sit here."
+            }
+        },
+        {
+            "from": 104,
+            "to": 105,
+            "lines": {
+                "wife": "Sitting?"
+            }
+        },
+        {
+            "from": 105,
+            "to": 109,
+            "lines": {
+                "husband": "I want to sit here and relax."
+            }
+        },
+        {
+            "from": 104,
+            "to": 105,
+            "lines": {
+                "wife": "I you really wanted to relax, you woulden't always talk to me."
+            }
+        }
+    ]
+}

@@ -15,5 +15,22 @@
             }
         },
         "channel": "extra3"
+    },
+    "Iuobpte4ndQ": {
+        "languages": {
+            "en": {
+                "title": "Loriot: \"I just want to sit here\" (WIP)",
+                "author": "Loriot",
+                "series": "Scenes from a marriage",
+                "subtitles": "/data/subtitles/Iuobpte4ndQ_en.json"
+            },
+            "de": {
+                "title": "Loriot: \"Ich will nur hier sitzen\" (WIP)",
+                "author": "Loriot",
+                "series": "Szenen einer Ehe",
+                "subtitles": null
+            }
+        },
+        "channel": "extra3"
     }
 }
