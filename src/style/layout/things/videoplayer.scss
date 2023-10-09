@@ -1,0 +1,14 @@
+main > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+iframe {
+    width: 100%;
+    height: auto;
+    max-height: 60dvh;
+    aspect-ratio: 16/9;
+}

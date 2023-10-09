@@ -1,0 +1,402 @@
+{
+    "lines": {
+        "narrator": {
+            "name": "Narrator",
+            "hideIfUnused": false
+        },
+        "investor": {
+            "name": "Investor",
+            "hideIfUnused": true
+        },
+        "mayor": {
+            "name": "Mayor",
+            "hideIfUnused": true
+        },
+        "resident": {
+            "name": "Resident",
+            "hideIfUnused": true
+        },
+        "explanation": {
+            "name": "Explanation",
+            "hideIfUnused": true
+        },
+        "moderator": {
+            "name": "Moderator",
+            "hideIfUnused": true
+        }
+    },
+    "subtitles": [
+        {
+            "from": 0.5,
+            "to": 5,
+            "lines": {
+                "narrator": "The new road in the new development area of Nittel in Rhineland-Palatinate is finished."
+            }
+        },
+        {
+            "from": 5,
+            "to": 10,
+            "lines": {
+                "narrator": "Everyone is happy, there is just one tiny, tiny annoyance."
+            }
+        },
+        {
+            "from": 11,
+            "to": 15,
+            "lines": {
+                "investor": "So, why the anger? I can't say exactly."
+            }
+        },
+        {
+            "from": 15,
+            "to": 18,
+            "lines": {
+                "investor": "I gifted a hole street to the community..."
+            }
+        },
+        {
+            "from": 18,
+            "to": 22,
+            "lines": {
+                "investor": "...and I can't believe I may have to dismantle it."
+            }
+        },
+        {
+            "from": 23,
+            "to": 27,
+            "lines": {
+                "narrator": "Mr. Arnoldy was obliged to build the road for the new development area hew had built."
+            }
+        },
+        {
+            "from": 27,
+            "to": 30,
+            "lines": {
+                "narrator": "But now it's the wrong color."
+            }
+        },
+        {
+            "from": 30,
+            "to": 33,
+            "lines": {
+                "narrator": "The footpath is cortina red as desired,"
+            }
+        },
+        {
+            "from": 33,
+            "to": 35.5,
+            "lines": {
+                "narrator": "but the curb is gray."
+            }
+        },
+        {
+            "from": 36,
+            "to": 41,
+            "lines": {
+                "narrator": "But accourding to the mayor, it should have also been red, like here."
+            }
+        },
+        {
+            "from": 43,
+            "to": 49,
+            "lines": {
+                "mayor": "The road will not be approved, because it was not made the way it was supposed to."
+            }
+        },
+        {
+            "from": 49,
+            "to": 55,
+            "lines": {
+                "mayor": "It was supposed to be made with red paving stones and curbs."
+            }
+        },
+        {
+            "from": 55,
+            "to": 58,
+            "lines": {
+                "mayor": "Exactly like we had mentioned in the decision."
+            }
+        },
+        {
+            "from": 58.5,
+            "to": 61,
+            "lines": {
+                "narrator": "Yes, the local council decided to do this,"
+            }
+        },
+        {
+            "from": 61,
+            "to": 65,
+            "lines": {
+                "narrator": "but unfortunately forgot to tell the investor about it."
+            }
+        },
+        {
+            "from": 66,
+            "to": 67,
+            "lines": {
+                "narrator": "Very unfortunate..."
+            }
+        },
+        {
+            "from": 68,
+            "to": 70,
+            "lines": {
+                "investor": "This decision is void for me."
+            }
+        },
+        {
+            "from": 70,
+            "to": 75,
+            "lines": {
+                "investor": "The municipality and the municipality have signed a contract with me.",
+                "explanation": "There are two different levels of municipality in Germany."
+            }
+        },
+        {
+            "from": 75,
+            "to": 79,
+            "lines": {
+                "investor": "There is no color mentioned in the contract."
+            }
+        },
+        {
+            "from": 80,
+            "to": 85,
+            "lines": {
+                "narrator": "Not only in this new development area, but also in another,"
+            }
+        },
+        {
+            "from": 85,
+            "to": 91,
+            "lines": {
+                "narrator": "the curb is not cortina red, but also grey."
+            }
+        },
+        {
+            "from": 91,
+            "to": 94,
+            "lines": {
+                "narrator": "How can that be, mayor?"
+            }
+        },
+        {
+            "from": 95,
+            "to": 99,
+            "lines": {
+                "mayor": "This was a decision made long before my time."
+            }
+        },
+        {
+            "from": 99,
+            "to": 102,
+            "lines": {
+                "mayor": "It was a mistake."
+            }
+        },
+        {
+            "from": 103,
+            "to": 110,
+            "lines": {
+                "mayor": "But it won't be corrected by making the same mistake again."
+            }
+        },
+        {
+            "from": 111,
+            "to": 112,
+            "lines": {
+                "narrator": "No, of course not!"
+            }
+        },
+        {
+            "from": 112,
+            "to": 116,
+            "lines": {
+                "narrator": "The municipality has indeed just paved a footpath in grey itself,"
+            }
+        },
+        {
+            "from": 116,
+            "to": 121,
+            "lines": {
+                "narrator": "but only because there were no red stones left."
+            }
+        },
+        {
+            "from": 121,
+            "to": 123,
+            "lines": {
+                "narrator": "Can happen..."
+            }
+        },
+        {
+            "from": 123,
+            "to": 125,
+            "lines": {
+                "narrator": "Now the residents will certainly be happy,"
+            }
+        },
+        {
+            "from": 125,
+            "to": 130,
+            "lines": {
+                "narrator": "when their street finally gets the right curb color."
+            }
+        },
+        {
+            "from": 130,
+            "to": 132,
+            "lines": {
+                "narrator": "Are they?"
+            }
+        },
+        {
+            "from": 131,
+            "to": 136,
+            "lines": {
+                "resident": "The color doesn't bother us, there are certainly more important things in the world."
+            }
+        },
+        {
+            "from": 137,
+            "to": 140,
+            "lines": {
+                "resident": "The road was closed for seven weeks."
+            }
+        },
+        {
+            "from": 140,
+            "to": 143,
+            "lines": {
+                "resident": "I'll be happy if it stays open."
+            }
+        },
+        {
+            "from": 143,
+            "to": 146,
+            "lines": {
+                "resident": "I don't care about the color of the curbs."
+            }
+        },
+        {
+            "from": 147,
+            "to": 149,
+            "lines": {
+                "narrator": "The mayor wants red curbs,"
+            }
+        },
+        {
+            "from": 149,
+            "to": 151,
+            "lines": {
+                "narrator": "the investor/investor doesn't see that,"
+            }
+        },
+        {
+            "from": 151,
+            "to": 153,
+            "lines": {
+                "narrator": "and, what happens now?"
+            }
+        },
+        {
+            "from": 154,
+            "to": 156,
+            "lines": {
+                "mayor": "The ball is in the project sponsor's court,"
+            }
+        },
+        {
+            "from": 156,
+            "to": 159,
+            "lines": {
+                "mayor": "he should propose a compromise."
+            }
+        },
+        {
+            "from": 159,
+            "to": 160.5,
+            "lines": {
+                "investor": "What could a compromise be?"
+            }
+        },
+        {
+            "from": 160.5,
+            "to": 163,
+            "lines": {
+                "investor": "Replacing every second stone?"
+            }
+        },
+        {
+            "from": 164,
+            "to": 166,
+            "lines": {
+                "narrator": "Of course, crazy idea!"
+            }
+        },
+        {
+            "from": 166.5,
+            "to": 168,
+            "lines": {
+                "narrator": "Every second stone turns red."
+            }
+        },
+        {
+            "from": 168,
+            "to": 172,
+            "lines": {
+                "narrator": "That way Nittel is guranteed to make curbside history!"
+            }
+        },
+        {
+            "from": 175,
+            "to": 178,
+            "lines": {
+                "moderator": "Guys, one big request,"
+            }
+        },
+        {
+            "from": 178,
+            "to": 182.5,
+            "lines": {
+                "moderator": "don't click right here, because then you will see our next video immideately,"
+            }
+        },
+        {
+            "from": 182.5,
+            "to": 187,
+            "lines": {
+                "moderator": "and under no circumstances click here, because then you will - boom - subscribe to our channel."
+            }
+        },
+        {
+            "from": 187,
+            "to": 193,
+            "lines": {
+                "moderator": "And, very dangerous, the bell. Then, you won't miss anything on extra 3, you won't escape laughing,"
+            }
+        },
+        {
+            "from": 193,
+            "to": 196,
+            "lines": {
+                "moderator": "you will neglect your hobbies, loose your job, no girlfriend, no friends anymore,"
+            }
+        },
+        {
+            "from": 196,
+            "to": 199,
+            "lines": {
+                "moderator": "social descent, seperation, personal bancrupcy"
+            }
+        },
+        {
+            "from": 200,
+            "to": 205,
+            "lines": {
+                "moderator": "Okay, then go forward and click, but, on your own risk."
+            }
+        }
+    ]
+}

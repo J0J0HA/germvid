@@ -1,0 +1,10 @@
+nav > a {
+    display: inline-block;
+    text-decoration: none;
+    color: var(--c_lnk);
+    background-color: var(--c_lnk-bg);
+    &:hover {
+        background-color: var(--c_lnk-bg-hov);
+        color: var(--c_lnk-hov);
+    }
+}

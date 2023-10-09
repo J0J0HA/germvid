@@ -1,0 +1,15 @@
+button, a[data-button] {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border: 2px solid var(--c_sec-bg);
+    border-radius: 0.25rem;
+    background-color: var(--c_sec-bg);
+    color: var(--c_sec);
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+
+    &:hover {
+        background-color: var(--c_prim-bg);
+    }
+}
