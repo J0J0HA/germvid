@@ -31,6 +31,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Install dependencies
+        run:
+          npm install --global --save-dev webpack webpack-cli html-bundler-webpack-plugin copy-webpack-plugin html-loader css-loader style-loader sass-loader
+      - name: Build
+        run: webpack
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
