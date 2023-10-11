@@ -39,6 +39,9 @@ export class Subtitles {
                     if (segment.lines[line] !== undefined) {
                         output[line] = segment.lines[line];
                     }
+                    if (output[line] === undefined && !this.getLineHideIfUnused(line)) {
+                        output[line] = '/';
+                    }
                 }
             }
         }
