@@ -1,4 +1,21 @@
 {
+    "oB-KOY4vZT4": {
+        "languages": {
+            "en": {
+                "title": "Real madness: The bridge to nowhere",
+                "author": "extra 3",
+                "series": "Real madness",
+                "subtitles": "/data/subtitles/oB-KOY4vZT4_en.json"
+            },
+            "de": {
+                "title": "Realer Irrsinn: Die Brücke ins Nichts",
+                "author": "extra 3",
+                "series": "Realer Irrsinn",
+                "subtitles": null
+            }
+        },
+        "channel": "extra3"
+    },
     "Iuobpte4ndQ": {
         "languages": {
             "en": {
@@ -26,23 +43,6 @@
             },
             "de": {
                 "title": "Realer Irrsinn: Falsche Bordsteinfarbe in Nittel",
-                "author": "extra 3",
-                "series": "Realer Irrsinn",
-                "subtitles": null
-            }
-        },
-        "channel": "extra3"
-    },
-    "oB-KOY4vZT4": {
-        "languages": {
-            "en": {
-                "title": "Real madness: The bridge to nowhere",
-                "author": "extra 3",
-                "series": "Real madness",
-                "subtitles": "/data/subtitles/oB-KOY4vZT4_en.json"
-            },
-            "de": {
-                "title": "Realer Irrsinn: Die Brücke ins Nichts",
                 "author": "extra 3",
                 "series": "Realer Irrsinn",
                 "subtitles": null
