@@ -109,6 +109,10 @@ export class Video {
     getAuthor(lang) {
         return this.getLanguage(lang).author;
     }
+
+    getAuthorUrl() {
+        return `https://youtube.com/@${this.channel}`;
+    }
 }
 
 export let videomng = {

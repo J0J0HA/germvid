@@ -36,6 +36,7 @@ export async function watch() {
     document.querySelector("h2").innerText = title;
     let author = video.getAuthor(lang);
     document.querySelector("#author").innerText = author;
+    document.querySelector("#author").href = video.getAuthorUrl();
     let series = video.getSeries(lang);
     document.querySelector("#series").innerText = series;
 

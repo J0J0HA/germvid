@@ -85,7 +85,7 @@ function renderList(filter = null) {
         let author_elm = document.createElement('td');
         let author_link_elm = document.createElement('a');
         author_link_elm.innerText = video.getAuthor(current_lang);
-        author_link_elm.href = `https://youtube.com/@${video.channel}`;
+        author_link_elm.href = video.getAuthorUrl();
         author_elm.appendChild(author_link_elm);
         video_elm.appendChild(author_elm);
         let series_elm = document.createElement('td');
