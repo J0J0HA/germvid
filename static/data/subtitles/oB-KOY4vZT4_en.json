@@ -1,0 +1,303 @@
+{
+    "lines": {
+        "narrator": {
+            "name": "Narrator",
+            "hideIfUnused": false
+        },
+        "roadplanner": {
+            "name": "Road Planner",
+            "hideIfUnused": true
+        },
+        "mayor": {
+            "name": "Mayor",
+            "hideIfUnused": true
+        },
+        "resident": {
+            "name": "Resident",
+            "hideIfUnused": true
+        },
+        "explanation": {
+            "name": "Explanation",
+            "hideIfUnused": true
+        },
+        "moderator": {
+            "name": "Moderator",
+            "hideIfUnused": true
+        }
+    },
+    "subtitles": [
+        {
+            "from": 1,
+            "to": 5,
+            "lines": {
+                "narrator": "Actually, the mayor of Gottenheim is really happy with the bridge."
+            }
+        },
+        {
+            "from": 5,
+            "to": 9.5,
+            "lines": {
+                "narrator": "But, the bridge has a small problem, and that for six years now."
+            }
+        },
+        {
+            "from": 9.5,
+            "to": 12,
+            "lines": {
+                "narrator": "It leads into a field."
+            }
+        },
+        {
+            "from": 13,
+            "to": 17,
+            "lines": {
+                "mayor": "Costs a bunch of money, which is tax money, we all pay it."
+            }
+        },
+        {
+            "from": 17.5,
+            "to": 21,
+            "lines": {
+                "mayor": "I have little understanding of that."
+            }
+        },
+        {
+            "from": 21,
+            "to": 23.5,
+            "lines": {
+                "mayor": "I hope that farce will end soon."
+            }
+        },
+        {
+            "from": 24.5,
+            "to": 27.5,
+            "lines": {
+                "narrator": "Meanwhile, the citizens of Gottenheim are proud of their useless bridge."
+            }
+        },
+        {
+            "from": 28.5,
+            "to": 32,
+            "lines": {
+                "resident": "That is what we are famous for: The bridge to nowhere."
+            }
+        },
+        {
+            "from": 33,
+            "to": 34,
+            "lines": {
+                "resident": "The most expensive garage in Baden-Württemberg;"
+            }
+        },
+        {
+            "from": 34,
+            "to": 36.5,
+            "lines": {
+                "resident": "In the past, a agriculture trailer was parked under it."
+            }
+        },
+        {
+            "from": 37,
+            "to": 40,
+            "lines": {
+                "resident": "Nothing happens, nothing happens."
+            }
+        },
+        {
+            "from": 40,
+            "to": 42.5,
+            "lines": {
+                "narrator": "Yes, nothing happens..."
+            }
+        },
+        {
+            "from": 42.5,
+            "to": 44,
+            "lines": {
+                "narrator": "Yes, nothing happens -  since six years."
+            }
+        },
+        {
+            "from": 44.5,
+            "to": 49,
+            "lines": {
+                "narrator": "It would not hurt Gottenheim if there was less traffic [in the city]."
+            }
+        },
+        {
+            "from": 49,
+            "to": 54,
+            "lines": {
+                "narrator": "At first, a street from Freiburg to Breisach was planned."
+            }
+        },
+        {
+            "from": 54,
+            "to": 57,
+            "lines": {
+                "narrator": "But it was built only as far as Gottenheim."
+            }
+        },
+        {
+            "from": 58,
+            "to": 60.5,
+            "lines": {
+                "narrator": "Because citzens feared noise,"
+            }
+        },
+        {
+            "from": 60.5,
+            "to": 64,
+            "lines": {
+                "narrator": "Farmers did not want to give away their land,"
+            }
+        },
+        {
+            "from": 64,
+            "to": 67.5,
+            "lines": {
+                "narrator": "and conservationists wanted to protect nature"
+            }
+        },
+        {
+            "from": 67.5,
+            "to": 74,
+            "lines": {
+                "narrator": "Because of that, the road planners are working on far more that only one road layout behind the bridge."
+            }
+        },
+        {
+            "from": 74,
+            "to": 79,
+            "lines": {
+                "roadplanner": "This is the originally planned (red) road."
+            }
+        },
+        {
+            "from": 79,
+            "to": 83,
+            "lines": {
+                "roadplanner": "There is the south route,"
+            }
+        },
+        {
+            "from": 83,
+            "to": 89,
+            "lines": {
+                "roadplanner": "here we have two variations."
+            }
+        },
+        {
+            "from": 89,
+            "to": 94,
+            "lines": {
+                "roadplanner": "New is the high voltage route."
+            }
+        },
+        {
+            "from": 94,
+            "to": 100,
+            "lines": {
+                "roadplanner": "And the fifth route is the tunichbertrand route."
+            }
+        },
+        {
+            "from": 100,
+            "to": 103,
+            "lines": {
+                "narrator": "And that is not everything yet."
+            }
+        },
+        {
+            "from": 103,
+            "to": 107,
+            "lines": {
+                "roadplanner": "They can be combined with other variants."
+            }
+        },
+        {
+            "from": 107,
+            "to": 113,
+            "lines": {
+                "roadplanner": "In the end, we have nine possible route variations."
+            }
+        },
+        {
+            "from": 114,
+            "to": 117,
+            "lines": {
+                "narrator": "Great! Construction can begin..."
+            }
+        },
+        {
+            "from": 117,
+            "to": 121,
+            "lines": {
+                "roadplanner": "One can certainly have hope,"
+            }
+        },
+        {
+            "from": 121,
+            "to": 125.5,
+            "lines": {
+                "roadplanner": "One can certainly have hope, that the construction will be in progress in 10 years."
+            }
+        },
+        {
+            "from": 126,
+            "to": 130,
+            "lines": {
+                "narrator": "Great. Only 16 years after the bridge was built!"
+            }
+        },
+        {
+            "from": 130,
+            "to": 132.5,
+            "lines": {
+                "narrator": "But something is already happening today."
+            }
+        },
+        {
+            "from": 133,
+            "to": 135,
+            "lines": {
+                "resident": "Millions have been wasted for a bridge;"
+            }
+        },
+        {
+            "from": 135,
+            "to": 138,
+            "lines": {
+                "resident": "now they had to lower the train tracks,"
+            }
+        },
+        {
+            "from": 138,
+            "to": 141,
+            "lines": {
+                "resident": "for a bridge nobody uses."
+            }
+        },
+        {
+            "from": 142,
+            "to": 146,
+            "lines": {
+                "narrator": "Yes, the bridge is not high enough for the new catenary of the train."
+            }
+        },
+        {
+            "from": 146,
+            "to": 149,
+            "lines": {
+                "narrator": "Because of that, the train tracks must be lowered."
+            }
+        },
+        {
+            "from": 149,
+            "to": 152,
+            "lines": {
+                "narrator": "For the bridge into the field."
+            }
+        }
+    ]
+}

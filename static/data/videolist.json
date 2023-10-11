@@ -1,4 +1,21 @@
 {
+    "Iuobpte4ndQ": {
+        "languages": {
+            "en": {
+                "title": "Loriot: \"I just want to sit here\"",
+                "author": "Loriot",
+                "series": "Scenes from a marriage",
+                "subtitles": "/data/subtitles/Iuobpte4ndQ_en.json"
+            },
+            "de": {
+                "title": "Loriot: \"Ich will nur hier sitzen\"",
+                "author": "Loriot",
+                "series": "Szenen einer Ehe",
+                "subtitles": null
+            }
+        },
+        "channel": "extra3"
+    },
     "BGGKYtsUdIQ": {
         "languages": {
             "en": {
@@ -16,18 +33,18 @@
         },
         "channel": "extra3"
     },
-    "Iuobpte4ndQ": {
+    "oB-KOY4vZT4": {
         "languages": {
             "en": {
-                "title": "Loriot: \"I just want to sit here\" (WIP)",
-                "author": "Loriot",
-                "series": "Scenes from a marriage",
-                "subtitles": "/data/subtitles/Iuobpte4ndQ_en.json"
+                "title": "Real madness: The bridge to nowhere",
+                "author": "extra 3",
+                "series": "Real madness",
+                "subtitles": "/data/subtitles/oB-KOY4vZT4_en.json"
             },
             "de": {
-                "title": "Loriot: \"Ich will nur hier sitzen\"",
-                "author": "Loriot",
-                "series": "Szenen einer Ehe",
+                "title": "Realer Irrsinn: Die Brücke ins Nichts",
+                "author": "extra 3",
+                "series": "Realer Irrsinn",
                 "subtitles": null
             }
         },
